@@ -6,7 +6,7 @@ Student Name-1) Parminder kumar
 Student Id's- 1) Parminder kumar - 1020332
               2) Jotpreet Singh Brar - 104000
 
-Instructor-Tina vandervech
+Instructor-Tina vandervecht
 
 TOPIC - Are mobiles dangerous,Are they necessary?
 License Copyright 2021 FANSHAWE COLLEGE
