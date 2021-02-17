@@ -1,19 +1,15 @@
 Project Name - Midterm 
 
 Student Name-1) Parminder kumar
-             2) Jotpreet Brar
+             2) Jotpreet Singh Brar
 
 Student Id's- 1) Parminder kumar - 1020332
-              2) Jotpreet Brar - 104000
+              2) Jotpreet Singh Brar - 104000
 
 Instructor-Tina vandervech
 
-TOPIC - Better Means of Transport - Car vs Bike
-
+TOPIC - Are mobiles dangerous,Are they necessary?
 License Copyright 2021 FANSHAWE COLLEGE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+In this one page app we are discussing about mobile phones that how they are usefull to use and also how they are destroying our future 
+all work would be done in html5 and then with the help of github terminals we will be publishing it...
