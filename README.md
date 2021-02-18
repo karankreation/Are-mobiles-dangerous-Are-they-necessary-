@@ -4,7 +4,7 @@ Student Name-1) Parminder kumar
              2) Jotpreet Singh Brar
 
 Student Id's- 1) Parminder kumar - 1020332
-              2) Jotpreet Singh Brar - 104222
+              2) Jotpreet Singh Brar - 1004222
 
 Instructor-Tina vandervecht
 
